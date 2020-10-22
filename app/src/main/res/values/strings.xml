@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Картинки с photosight</string>
+    <string name="pathToGoogle">https://photosight.ru/photos/category/3/</string>
+</resources>
